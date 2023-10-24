@@ -27,7 +27,8 @@ url: "https://oretools.org" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 source: ./src
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
