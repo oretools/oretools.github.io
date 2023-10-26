@@ -4,7 +4,7 @@
 
 It is time for the next take on our community. We are in the process of inviting new members to join us. More information will follow soon.  
 
-The type of activities that we have in mind are Community lunches, meetups, workshops, and other events that will promote exchange of experiencex betweeen participants
+The type of activities that we have in mind are Community lunches, meetups, workshops, and other events that will promote exchange of experiences betweeen participants
 
 Activities will be announced here and posted on LinkedIn.  
 On LinkedIn we have our own group, [Oretools][oretools-group]  
